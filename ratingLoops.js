@@ -1,7 +1,7 @@
 /**
  *   @author Heinbokel, Doug (dheinbokel@student.ncmich.edu)
  *   @version 0.0.1
- *   @summary Weeks 3+4 project 2 Drive-Right || created: 10.6.2017
+ *   @summary Week 5 Movie Rater || created: 10.11.2017
  *   @todo Nothing
  */
 
